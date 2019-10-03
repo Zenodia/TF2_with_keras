@@ -20,7 +20,7 @@ pip install tensorflow==2.0.0
 
 
 
-############################## with docker on a gpu enabled ubuntu VM ################################
+################## with docker on a gpu enabled ubuntu VM #########################
 
 
 This is how easy it is to switch to Tensorflow2.0 with Azure ubuntu Virtual Machine with GPU enabled ( for example : NC6_v2/v3 family or ND families ) 
